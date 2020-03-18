@@ -1,32 +1,22 @@
 [
   {
-    "userId": 1,
-    "id": 1,
-    "title": "delectus aut autem",
-    "completed": false
+    "name": "delectus aut autem",
+    "status": false
   },
   {
-    "userId": 1,
-    "id": 2,
-    "title": "quis ut nam facilis et officia qui",
-    "completed": false
+    "name": "quis ut nam facilis et officia qui",
+    "status": false
   },
   {
-    "userId": 1,
-    "id": 3,
-    "title": "fugiat veniam minus",
-    "completed": false
+    "name": "fugiat veniam minus",
+    "status": false
   },
   {
-    "userId": 1,
-    "id": 4,
-    "title": "et porro tempora",
-    "completed": true
+    "name": "et porro tempora",
+    "status": true
   },
   {
-    "userId": 1,
-    "id": 5,
-    "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
-    "completed": false
+    "name": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+    "status": false
   },
 ]
